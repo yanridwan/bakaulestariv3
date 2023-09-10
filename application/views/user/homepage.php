@@ -128,30 +128,13 @@
             </div>
             <div class="row no-gutters ftco-services">
                 <div class="container">
-                    <div class="row">
+                    <div class="row"
+                        style="text-align:center; display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
-                        <video controls>
-                            <source src="<?= base_url('upload/home.mp4') ?>" type="video/webm"
-                                style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+                        <video controls style="width: 100%; height: 400px;">
+                            <source src="<?= base_url('upload/home.mp4') ?>" type="video/webm" />
                             Browsermu tidak mendukung tag ini, upgrade donk!
                         </video>
-
-                        <p style="text-align:justify"> Kelompok Tani Hutan (KTH) Bakau Lestari terbentuk dikarenakan
-                            adanya
-                            sekelompok
-                            masyarakat yang peduli tentang lingkungan karena mereka sadar dan dapat menyaksikan
-                            langsung dan merasakan langsung dampak dari pada kerusakan lingkungan terutama adanya
-                            banjir akibat dari gelombang air laut yang langsung sampai ke perkebunan kelapa masyarakat
-                            dan mengakibatkan kerusakan. Masyarakat membentuk Kelompok Tani Hutan dengan nama KTH Bakau
-                            Lestari
-                            yang bergerak di bidang pengelolaan dan penjagaan kawasan mangrove.
-                            Anggota KTH Bakau Lestari sebagian besar berprofesi sebagai petani pekebun kelapa dalam
-                            dan nelayan pantai, dari awal mereka sadar tentang hal pentingnya kawasan mangrove
-                            sebagai daerah penyanggah (buffer zone), pelindung dari pada ombak laut, mencegah adanya
-                            abrasi pantai dan yang paling penting adalah sebagai tempat berkembang biaknya satwa liar
-                            serta penyimpan karbon 3-5 kali lebih besar di bandingkan dengan hutan tropis dataran
-                            rendah.
-                        </p>
                     </div>
                 </div>
             </div>
